@@ -4,9 +4,9 @@
            failures="1"
            errors="0"
            skipped="0"
-           time="4.217">
+           time="4.958">
   <properties />
-            <testcase name="verifyUserShouldNavigateToLoginPage" time="1.387" classname="com.nopcommerce.demo.testsuite.LoginPageTest">
+            <testcase name="verifyUserShouldNavigateToLoginPage" time="1.336" classname="com.nopcommerce.demo.testsuite.LoginPageTest">
                 <failure type="java.lang.AssertionError"
                   message="Login page not displayed expected [Welcome, Please Sign In!] but found [Welcome, Please Sign In]"
               >
@@ -50,6 +50,6 @@
           </testcase>
   
   
-            <testcase name="verifyErrorMessageWithInvalidCredentials" time="2.830" classname="com.nopcommerce.demo.testsuite.LoginPageTest" />
+            <testcase name="verifyErrorMessageWithInvalidCredentials" time="3.622" classname="com.nopcommerce.demo.testsuite.LoginPageTest" />
       
 </testsuite>
